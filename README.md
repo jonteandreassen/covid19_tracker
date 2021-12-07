@@ -1,6 +1,6 @@
-Covid 19 Tracker
+## Covid 19 Tracker Sweden
 
-## API used: https://github.com/CSSEGISandData/COVID-19
+API used: https://github.com/CSSEGISandData/COVID-19
 
 MY idea with the project is that I wanted to learn more about javaScript, react and working with APIs.
 I thought that rather then going to a dedicated website that has the same type of information I thought that I was going to build it myself.
