@@ -6,7 +6,7 @@ My idea with the project was to collect covid19 data and learn more about workin
 I thought that rather then going to a dedicated website that has the same type of information I thought that I was going to build it myself.
 
 
-- The website hosted localy
+- The website is hosted localy
 - Built with javaScript (React)
 - Graph tool: Recharts
 - Data is updated at midnight
